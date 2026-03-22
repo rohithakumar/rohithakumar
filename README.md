@@ -24,8 +24,8 @@ student = {
     "name"     : "Rohith A Kumar",
     "college"  : "NMAMIT, Nitte",
     "degree"   : "B.Tech. Cybersecurity — Year 1",
-    "mode"     : "Learn Coding 🎧",
-    "status"   : "Leveling up every day",
+    "mode"     : "Coding ⌨️ ",
+    "status"   : "Unlocking the Next Level!",
     "goal"     : "Ethical Hacker | Security Engineer | CTF Player"
 }
 ```
