@@ -72,21 +72,6 @@ student = {
 
 ---
 
-## `> currently_learning` 📡
-
-```bash
-$ cat learning_queue.txt
-```
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking_Fundamentals-00C853?style=for-the-badge&logo=cisco&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
-
-> Currently grinding: **Network fundamentals → Web exploitation → CTF writeups**
-
----
-
 ## `> github_stats` 📊
 
 ```
@@ -107,26 +92,6 @@ $ git log --all --oneline | wc -l
 
 <!-- Most Used Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithakumar&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff" alt="Top Languages" />
-
-</div>
-
----
-
-## `> trophies.sh` 🏆
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rohithakumar&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-## `> contribution_graph` 🌐
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohithakumar&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true)
 
 </div>
 
