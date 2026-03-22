@@ -9,7 +9,7 @@
 
 # Hey, I'm Rohith A Kumar 👾
 
-### `$ whoami` → Cybersecurity Student. Vibe Coder. Curious Human.
+### `$ whoami` → Cybersecurity Student. Programmer . Curious Human.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&width=500&lines=1st+Year+Cybersec+%40+NMAMIT;Learning+to+break+things+ethically+%F0%9F%94%90;Code+first%2C+questions+later+%F0%9F%92%BB;CTF+newbie+%7C+Future+ethical+hacker)](https://git.io/typing-svg)
 
