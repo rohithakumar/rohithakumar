@@ -1,126 +1,168 @@
-# <!-- Header -->
-<div align="center">
+ <div align="center">
 
-```
-╔═══════════════════════════════════════════════════╗
-║   ACCESS GRANTED — WELCOME TO MY TERMINAL 🖥️     ║
-╚═══════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B16,100:00FF41&height=200&section=header&text=ROHITH%20A%20KUMAR&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CYBERSECURITY%20%7C%20DEVELOPMENT%20%7C%20CURIOSITY&descSize=13&descAlignY=58&animation=fadeIn" width="100%"/>
 
-# Hey, I'm Rohith A Kumar 👾
-### `$ whoami` → Cybersecurity Student. Programmer . Curious Human.
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF41&center=true&width=500&lines=2nd+Year+Cybersec+%40+NMAMIT;Learning+to+break+things+ethically+%F0%9F%94%90;Code+first%2C+questions+later+%F0%9F%92%BB;CTF+newbie+%7C+Future+ethical+hacker)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Initializing+Rohith's+Profile...;Cybersecurity+Student+%40+NMAMIT;Breaking+Things.+Learning.+Building.;Exploring+the+Digital+Frontier.;Think+Like+An+Attacker.+Build+Like+An+Engineer." />
+</a>
+
+<br/><br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=rohithakumar&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/rohithakumar)
+[![GitHub followers](https://img.shields.io/github/followers/rohithakumar?style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github)](https://github.com/rohithakumar?tab=followers)
 
 </div>
 
 ---
 
-## `> about_me.txt`
+## `01 // WHOAMI`
+
+```bash
+┌──(rohith㉿kali)-[~]
+└─$ whoami
+
+Rohith A Kumar
+Cybersecurity Student | Developer | Tech Explorer
+```
+
+I'm a second-year B.Tech CSE (Cybersecurity) student at **NMAMIT**, interested in understanding how technology works, where it breaks, and how to make it more secure.
+
+Currently exploring cybersecurity, programming, digital forensics, and building things that turn ideas into reality.
 
 ```python
-student = {
-    "name"     : "Rohith A Kumar",
-    "college"  : "NMAMIT, Nitte",
-    "degree"   : "B.Tech. Cybersecurity — Year 1",
-    "mode"     : "Coding ⌨️ ",
-    "status"   : "Unlocking the Next Level!",
-    "goal"     : "Ethical Hacker | Security Engineer | CTF Player"
-}
+class Rohith:
+    def __init__(self):
+        self.name = "Rohith A Kumar"
+        self.college = "NMAMIT, Nitte"
+        self.degree = "B.Tech CSE (Cybersecurity)"
+        self.year = 2
+        self.interests = [
+            "Cybersecurity",
+            "Ethical Hacking",
+            "Digital Forensics",
+            "CTFs",
+            "Software Development"
+        ]
+        self.current_focus = "Learning by Building"
+
+    def motto(self):
+        return "Stay curious. Think critically. Build relentlessly."
+
+
+me = Rohith()
+print(me.motto())
 ```
 
-> I don't always know what I'm doing — but I'm doing it with confidence. 🚀
+> *The goal isn't just to use technology. It's to understand what happens underneath it.*
 
 ---
 
-## `> current_loadout` 🛠️
+## `02 // TECH_STACK`
 
-**Languages I'm picking up:**
+**Languages & Development**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,java,html,css,bash&theme=dark" />
+</p>
 
-**Tools in my arsenal:**
+**Tools & Environment**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=linux,kali,git,github,vscode,vim&theme=dark" />
+</p>
 
----
-
-## `> interests.exe` 🔍
-
-```
-🔐  Network Security & Ethical Hacking
-🧩  CTF Challenges (just getting started, no shame)
-🕵️  Digital Forensics & OSINT
-💻  Building random stuff and learning from it
-🎮  Making projects that look cool even if the code is messy
-```
-
-## `> current_mission` 🎯
-
-- [x] Survive first year of Cybersecurity
-- [x] Set up GitHub profile
-- [x] Complete my first CTF challenge
-- [ ] Build a cool security tool
-- [ ] Land my first internship
-- [ ] *World domination (ethical, of course)*
+**Currently exploring:** Network Security · Linux Internals · Ethical Hacking · Digital Forensics · Data Structures.
 
 ---
 
-## `> github_stats` 📊
+## `03 // INTERESTS`
 
+| Domain | Exploring |
+|:---|:---|
+| 🔐 Cybersecurity | Ethical Hacking & Network Security |
+| 🕵️ Forensics | Digital Investigation & OSINT |
+| 🧩 CTF | Challenge Solving & Reverse Engineering |
+| 💻 Development | Building Useful Security Tools |
+| 🌐 Systems | Linux, Networking & Operating Systems |
+
+---
+
+## `04 // ACTIVE_MISSIONS`
+
+```text
+[████████████████████]  PROFILE INITIALIZED
+
+[✓] Survived Year 1 of Engineering
+[✓] Started my Cybersecurity journey
+[✓] Entered the world of CTFs
+[✓] Started building hackathon projects
+
+[>] Strengthening programming fundamentals
+[>] Exploring practical cybersecurity
+[ ] Build and publish independent security tools
+[ ] Participate in more CTF competitions
+[ ] Land my first technical internship
+[ ] Become exceptionally good at what I do
+
+STATUS: IN PROGRESS...
 ```
-$ git log --all --oneline | wc -l
-```
+
+---
+
+## `05 // GITHUB_ANALYTICS`
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=rohithakumar&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&border_color=00FF41" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rohithakumar&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&rank_icon=github" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=rohithakumar&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 
 <br/>
 
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com?user=rohithakumar&theme=terminal&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithakumar&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" />
 
-<br/>
+<br/><br/>
 
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithakumar&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff" alt="Top Languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohithakumar&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-## `> connect_with_me` 📡
+## `06 // CONNECT`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-a-kumar-b6004b327)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rohith.a.k/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+<a href="https://www.linkedin.com/in/rohith-a-kumar-b6004b327">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" />
+</a>
+<a href="https://www.instagram.com/rohith.a.k/">
+<img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF41" />
+</a>
+<a href="https://tryhackme.com">
+<img src="https://img.shields.io/badge/TRYHACKME-0D1117?style=for-the-badge&logo=tryhackme&logoColor=00FF41" />
+</a>
+<a href="https://github.com/rohithakumar">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" />
+</a>
 
-</div>
+<br/><br/>
 
----
+### `SYSTEM MESSAGE`
 
-<div align="center">
+```text
+ACCESS GRANTED.
+The journey is still loading...
 
+Keep learning.
+Keep experimenting.
+Never stop questioning.
 ```
-╔══════════════════════════════════════════╗
-║  "The quieter you become,               ║
-║   the more you are able to hear."       ║
-║                        — Kali Linux     ║
-╚══════════════════════════════════════════╝
-```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=rohithakumar&color=00ff41&style=flat-square&label=VISITORS)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B16,100:000000&height=110&section=footer" width="100%"/>
 
-*Thanks for stopping by — go build something cool.* 👾
+**`// END OF TRANSMISSION`**
 
 </div>
